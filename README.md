@@ -6,7 +6,7 @@ RandomForest | SMS Spam Detection Machine Learning | Classification
 
 **PROJECT DESCRIPTION **SMS Spam Detection Machine Learning **Classification **Mitchell Henderson CSPB 3022
 
-I use machine learning to perform a classification where I classify database of text messages either as spam or ham.
+I use [machine learning to perform a classification](https://machinelearningmastery.com/types-of-classification-in-machine-learning/) where I classify database of text messages either as spam or ham.
 
 This is a Jupyter Notebook. You will need access to Jupyter to open and run this notebook.
 
