@@ -1,6 +1,6 @@
 RandomForest | SMS Spam Detection Machine Learning | Classification
 
-![RandomForest](https://github.com/mitch-henderson/RandomForest_SMS_Spam_Detection_/blob/main/DALL%C2%B7E%202023-03-04%2023.08.00%20-%20random%20forest%20artifical%20intelligence%203d%20in%20miami%20vice%20style.png?raw=true)
+![RandomForest](https://github.com/mitch-henderson/RandomForest_SMS_Spam_Detection_/blob/main/2023_08_mitch___h_RandomForest__SMS_Spam_Detection_Machine_Learning.png)
 
 **PROJECT DESCRIPTION **SMS Spam Detection Machine Learning **Classification **Mitchell Henderson CSPB 3022
 
