@@ -32,8 +32,6 @@ A method used in statistics, pattern recognition, and machine learning to find a
 
 To get started with the toolset, ensure you have scikit-learn installed. You can install it using pip:
 ```
-bash
-Copy code
 pip install scikit-learn
 ```
 
