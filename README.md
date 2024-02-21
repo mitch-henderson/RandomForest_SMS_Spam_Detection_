@@ -11,7 +11,7 @@ Leveraging [machine learning techniques](https://machinelearningmastery.com/type
 ## Primary Algorithm Toolset 
 
 The code in this repository primarily leverages the following algorithms and tools from the `scikit-learn` library:
-
+ 
 **K-Nearest Neighbors (KNN)**:
 KNN is a non-parametric, lazy learning algorithm that classifies a data point based on how its neighbors are classified. Given a new observation, KNN searches through the training dataset for the 'k' training examples that are closest to the point and returns the output value (class) that has the majority among its 'k' nearest neighbors.
   
