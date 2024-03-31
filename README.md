@@ -4,7 +4,7 @@ RandomForest | SMS Spam Detection Machine Learning | Classification
 
 # SMS Spam Detection: Machine Learning Classification
 By **Mitchell Henderson**, CSPB 3022  
- 
+  
 ## Project Overview:
 Leveraging [machine learning techniques](https://machinelearningmastery.com/types-of-classification-in-machine-learning/), this project classifies a dataset of text messages into two categories: spam or ham.
 
