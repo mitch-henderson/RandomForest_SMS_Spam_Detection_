@@ -20,7 +20,7 @@ A statistical method for analyzing datasets where the outcome variable is binary
 
 **Decision Tree Classifier**:
 A type of flowchart-like structure where each internal node represents a feature(or attribute), each branch represents a decision rule, and each leaf node represents an outcome. The decision tree splits the data into subsets to eventually make a prediction based on the input features.
-
+ 
 **Random Forest Classifier**:
 An ensemble learning method that operates by constructing multiple decision trees during training and outputs the class that is the mode (most frequent classification) of the classes produced by individual trees. It provides improved accuracy and control over over-fitting compared to individual decision trees.
 
