@@ -8,7 +8,7 @@ By **Mitchell Henderson**, CSPB 3022
 ## Project Overview:
 Leveraging [machine learning techniques](https://machinelearningmastery.com/types-of-classification-in-machine-learning/), this project classifies a dataset of text messages into two categories: spam or ham.
 
-## Primary Algorithm Toolset  
+## Primary Algorithm Toolset   
 
 The code in this repository primarily leverages the following algorithms and tools from the `scikit-learn` library:
  
