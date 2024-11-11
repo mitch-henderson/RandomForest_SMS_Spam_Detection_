@@ -15,7 +15,7 @@ The code in this repository primarily leverages the following algorithms and too
 **K-Nearest Neighbors (KNN)**:
 KNN is a non-parametric, lazy learning algorithm that classifies a data point based on how its neighbors are classified. Given a new observation, KNN searches through the training dataset for the 'k' training examples that are closest to the point and returns the output value (class) that has the majority among its 'k' nearest neighbors.
   
-**Logistic Regression**:
+**Logistic Regression**: 
 A statistical method for analyzing datasets where the outcome variable is binary (e.g., spam or not spam). Logistic Regression estimates the probability that a given instance belongs to a particular category, making it especially suited for binary classification problems.
 
 **Decision Tree Classifier**:
